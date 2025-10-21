@@ -92,5 +92,6 @@
     "PaymentPaypalRecurring": true,
     "PaymentStripe": true,
     "PaymentStripeRecurring": true,
-    "AdminCache": true
+    "AdminCache": true,
+    "modules": true
 }
