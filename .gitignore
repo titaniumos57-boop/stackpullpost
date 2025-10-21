@@ -31,13 +31,6 @@ yarn-error.log
 /.env
 /.phpunit.result.cache
 
-# Laravel Cache / Logs
-/storage/*.key
-/storage/*.log
-/storage/*.cache
-/storage/framework/cache/data
-/storage/framework/sessions
-/storage/framework/views
 
 
 # OS Files
